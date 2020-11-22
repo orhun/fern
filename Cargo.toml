@@ -3,7 +3,7 @@ name = "fern_colored"
 # Remember to update html_root_url in src/lib.rs with each version.
 version = "0.6.1"
 authors = ["David Ross <daboross@daboross.net>"]
-description = "Simple, efficient logging"
+description = "Simple, efficient logging (with true color support)"
 edition = "2018"
 
 documentation = "https://docs.rs/fern/"
